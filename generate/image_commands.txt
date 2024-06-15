@@ -32,6 +32,7 @@
 
 .\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#e5a00d" -gradient 1 -text "BINGE" -out_name "Binge"
 .\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#e5a00d" -gradient 1 -text "BINGE\nENDED" -out_name "Binge Ended"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#e5a00d" -gradient 1 -text "NOT\nSTARTED" -out_name "Not Started"
 
 .\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#ed1c24" -gradient 1 -text "ANIME WATCHLIST" -out_name "Anime Watchlist"
 .\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#ed1c24" -gradient 1 -text "TRAKT WATCHLIST" -out_name "Trakt Watchlist"
